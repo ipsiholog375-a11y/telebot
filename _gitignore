@@ -1,0 +1,16 @@
+﻿# Secrets
+bot/.env
+.env
+
+# Local data
+bot/bot_stats.db
+logs/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
